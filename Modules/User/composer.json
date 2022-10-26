@@ -1,0 +1,23 @@
+{
+    "name": "hadihosseini88/user",
+    "description": "",
+    "authors": [
+        {
+            "name": "SeyedHadi Hosseini",
+            "email": "hadi.hosseini88@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\User\\": ""
+        }
+    }
+}
